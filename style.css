@@ -17,6 +17,10 @@ body {
 .title {
   margin: 10px 0 0;
   text-align: center;
+  color: rgb(14, 176, 122);
+  font: 4em sans-serif;
+  font-style: italic;
+  font-weight: bolder;
 }
 
 .container {
